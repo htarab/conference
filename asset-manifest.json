@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/conference/static/css/main.47b475af.css",
+    "main.js": "/conference/static/js/main.8f4e253f.js",
+    "static/media/skcetLogo.png": "/conference/static/media/skcetLogo.31d2bf13215ad9e10734.png",
+    "index.html": "/conference/index.html",
+    "main.47b475af.css.map": "/conference/static/css/main.47b475af.css.map",
+    "main.8f4e253f.js.map": "/conference/static/js/main.8f4e253f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47b475af.css",
+    "static/js/main.8f4e253f.js"
+  ]
+}
